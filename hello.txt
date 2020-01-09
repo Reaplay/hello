@@ -1,2 +1,4 @@
 New string!
 Another string
+
+Hello, world!
