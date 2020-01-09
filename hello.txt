@@ -2,3 +2,4 @@ New string!
 Another string
 
 Hello, world!
+Hello, git!
