@@ -3,3 +3,4 @@ Another string
 
 Hello, world!
 Hello, git!
+Hello, git rebase!
